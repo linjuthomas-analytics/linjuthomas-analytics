@@ -115,7 +115,7 @@ Relational SQL database project featuring normalized schema design, ER modeling,
 
 💼 LinkedIn: https://www.linkedin.com/in/linju-thomas
 
-🌐 Portfolio: *(We'll add this after we build your portfolio website.)*
+🌐 Portfolio: https://linjuthomas-analytics.github.io
 
 💻 GitHub: https://github.com/linjuthomas-analytics
 
