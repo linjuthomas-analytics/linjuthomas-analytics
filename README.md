@@ -113,11 +113,11 @@ Relational SQL database project featuring normalized schema design, ER modeling,
 
 📧 Email: thomaslinjuba@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/linju-thomas
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/linju-thomas)
 
-🌐 Portfolio: https://linjuthomas-analytics.github.io
+🌐 Portfolio: [Analytics Portfolio](https://linjuthomas-analytics.github.io)
 
-💻 GitHub: https://github.com/linjuthomas-analytics
+💻 GitHub: [GitHub Portfolio](https://github.com/linjuthomas-analytics)
 
 ---
 
